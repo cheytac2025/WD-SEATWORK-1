@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+.header {
+    padding: 15px 30px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 40px;
+    background-color: white;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav img {
+    width: 50px;
+    height: 50px;
+}
+
+.nav nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s, text-decoration 0.3s;
+}
+
+.nav a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.signup-btn {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.signup-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+input[type="text"]:hover {
+    border-color: #007bff;
+    transition: border-color 0.3s;
+}
+
+.icons:hover {
+    color: #007bff;
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: color 0.3s, transform 0.3s;
+}
+
+.header4 .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header4 .nav nav {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.header4 .nav img {
+    width: 50px;
+    height: 50px;
+}
+
+.header4 .nav .icons {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.header4 .nav .icons:hover {
+    color: #007bff;
+    transform: scale(1.2);
+    transition: color 0.3s, transform 0.3s;
+}
+
+.header5 .nav {
+    display: flex;
+    justify-content: center;
+}
+
+.header5 .nav nav {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    align-items: center;
+    gap: 20px;
+}
+
+.header5 .nav img {
+    width: 60px;
+    height: 60px;
+}
+
+.header5 .nav nav a,
+.header5 .nav nav .icons {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s, text-decoration 0.3s;
+}
+
+.header5 .nav nav a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.header5 .nav .icons:hover {
+    color: #007bff;
+    transform: scale(1.2);
+    transition: color 0.3s, transform 0.3s;
+}
