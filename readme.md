@@ -4,25 +4,24 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/cheytac2025/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="assets/img/sakuragi.png" alt="Logo" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="WD-Seatwork-1">Title</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+WD-Seatwork-1 is a web development project designed to apply and demonstrate foundational skills in creating structured, styled, and responsive web pages. This project focuses on building clean layouts using HTML and CSS, while ensuring accessibility and user-friendly navigation.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=cheytac2025/WD-Seatwork-1)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
 ---
 
@@ -57,28 +56,39 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+WD-Seatwrok-1 is a web development project designed to apply and demonstrate foundational skills in creating structured, styled, and responsive web pages. This project focuses on building clean layouts using HTML and CSS, while ensuring accessibility and user-friendly navigation.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+✨ Key Features:
+Responsive web design
+
+Organized header, footer, and content sections
+
+Custom styling for visual appeal
+
+Clean and semantic HTML structure
+
+🚀 Technologies Used:
+HTML5
+
+CSS3
+
+📂 Purpose:
+This project serves as a seatwork activity for practicing web design fundamentals, specifically focusing on layout structuring, styling, and component positioning.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+-   Responsive Layout  
+- Fixed Header with Navigation  
+- Centered Navigation Menu  
+- Custom Footer Section
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,7 +126,8 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|-------|---------|------|
+| Pinterest Design Inspiration 1 | Used as visual reference for layout and design structure. | [Visit](https://www.pinterest.com/pin/5207355812960956/) |
+| Pinterest Wireframe UI Kit | Served as a guide for desktop and mobile wireframe layout. | [Visit](https://www.pinterest.com/pin/dob-desktop-mobile-wireframe-ui-kit-wireframe-kits--84020349290680719/) |
+
